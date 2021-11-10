@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExamenMapasPr</string>
+    <string-array name="lugares">
+        <item>Seleccione</item>
+        <item>torres del paine</item>
+        <item>lago colbun</item>
+        <item>viña del mar</item>
+        <item>isla de pascua</item>
+        <item>punta arenas</item>
+        <item>desierto de atacama</item>
+        <item>chiloe</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
